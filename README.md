@@ -3,7 +3,8 @@ Database of hand bones
 
 DB Structure
 
-`/carpa
+```
+/carpa
 /carpal/distal/
 /carpal/distal/trapezium
 /carpal/distal/trapezoid
@@ -21,4 +22,5 @@ DB Structure
 
 /metacarpal
 
-/phalanx`
+/phalanx
+```
