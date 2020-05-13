@@ -1,0 +1,6 @@
+{
+    "type": "package",
+    "name": "Other carpal bones DB",
+    "description": "Database with X-Ray pictures of other carpal bones",
+    "subitems": ["metacarpus", "radius", "ulna"]
+}

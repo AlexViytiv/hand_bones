@@ -1,0 +1,9 @@
+{
+    "type": "global",
+    "name": "Human hand bones DB",
+    "description": "Database with X-Ray pictures of human hand bones",
+    "version": "0.0.1",
+    "updated": "13 May 2020",
+    "subitems": ["carpal", "metacarpal", "phalanx"],
+    "authors": ["Alex Viytiv", "Ivan Boyko"]
+}

@@ -1,0 +1,6 @@
+{
+    "type": "package",
+    "name": "Proximal carpal bones DB",
+    "description": "Database with X-Ray pictures of proximal carpal bones",
+    "subitems": ["lunate", "pisiform", "scaphoid", "triquetrum"]
+}

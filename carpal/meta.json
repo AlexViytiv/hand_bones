@@ -1,0 +1,6 @@
+{
+    "type": "package",
+    "name": "Carpal bones DB",
+    "description": "Database with X-Ray pictures of carpal bones",
+    "subitems": ["distal", "proximal", "other"]
+}

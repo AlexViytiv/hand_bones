@@ -1,0 +1,6 @@
+{
+    "type": "package",
+    "name": "Metacarpal bones DB",
+    "description": "Database with X-Ray pictures of metacarpal bones",
+    "subitems": ["first (thumb)", "second (pointer)", "third (middle)", "fourth (ring)", "fifth (pinky)"]
+}

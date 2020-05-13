@@ -1,0 +1,1 @@
+Unprocessed directory contains all images that should be proceed and classified to one of existing bone classes.
