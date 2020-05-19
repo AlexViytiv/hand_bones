@@ -4,7 +4,7 @@ Database strcuture corresponds to human hand bones naming convention.
 Human hand is built of 3 major parts: 
 * carpal
 * metacarpal
-* phalanx.
+* phalanx
 
 Each part of human hand also can be divided into several subcategories.
 
