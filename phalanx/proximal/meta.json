@@ -2,5 +2,11 @@
     "type": "package",
     "name": "Proximal phalanx bones DB",
     "description": "Database with X-Ray pictures of proximal phalanx bones",
-    "subitems": ["first (thumb)", "second (pointer)", "third (middle)", "fourth (ring)", "fifth (pinky)"]
+    "subitems": [
+        "first (thumb)",
+        "second (pointer)",
+        "third (middle)",
+        "fourth (ring)",
+        "fifth (pinky)"
+    ]
 }

@@ -2,5 +2,9 @@
     "type": "package",
     "name": "Phalanx bones DB",
     "description": "Database with X-Ray pictures of phalanx bones",
-    "subitems": ["distal", "intermediate", "proximal"]
+    "subitems": [
+        "distal",
+        "intermediate",
+        "proximal"
+    ]
 }

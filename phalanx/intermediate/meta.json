@@ -2,5 +2,10 @@
     "type": "package",
     "name": "Intermediate phalanx bones DB",
     "description": "Database with X-Ray pictures of intermediate phalanx bones",
-    "subitems": ["second (pointer)", "third (middle)", "fourth (ring)", "fifth (pinky)"]
+    "subitems": [
+        "second (pointer)",
+        "third (middle)",
+        "fourth (ring)",
+        "fifth (pinky)"
+    ]
 }

@@ -2,5 +2,10 @@
     "type": "package",
     "name": "Distal carpal distal bones DB",
     "description": "Database with X-Ray pictures of distal carpal bones",
-    "subitems": ["capitate", "hamate", "trapezium", "trapezoid"]
+    "subitems": [
+        "capitate",
+        "hamate",
+        "trapezium",
+        "trapezoid"
+    ]
 }
